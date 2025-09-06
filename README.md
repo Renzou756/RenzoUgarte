@@ -1,27 +1,23 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Renzo+Ugarte" alt="Renzo Ugarte" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1&pause=1000&color=5D6D7E&center=true&vCenter=true&width=500&lines=Industrial+Engineering+%7C+University+of+Toronto" alt="Industrial Engineering | University of Toronto" />
-  <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=400&size=52&duration=1&pause=1000&color=3498DB&center=true&vCenter=true&width=550&lines=Renzo+Ugarte" alt="Renzo Ugarte" />
+</p>
+
+<p align="center" style="font-family: 'Segoe UI', sans-serif; margin-top: -10px;">
+  <b>Industrial Engineering at University of Toronto</b>
+</p>
+
+<p align="center" style="font-family: 'Segoe UI', sans-serif;">
+  <b>Research Intern at morLAB</b>
+</p>
+
+<p align="center" style="margin: 20px 0;">
   <a href="https://morlab.mie.utoronto.ca/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1&pause=1000&color=5D6D7E&center=true&vCenter=true&width=500&lines=Research+Intern+%7C+morLAB" alt="Research Intern | morLAB" />
+    <img src="https://morlab.mie.utoronto.ca/media/morlab_logo.png" alt="morLAB Logo" height="30">
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="font-family: 'Segoe UI', sans-serif;">
   Passionate about Machine Learning, Data Science, Finance, and Manufacturing.
-</p>
-
-<p align="center">
-  <a href="mailto:renzo.ugarte@mail.utoronto.ca">
-    <img src="https://img.shields.io/badge/Email-renzo.ugarte@mail.utoronto.ca-2E86C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/renzo-ugarte-basurco/">
-    <img src="https://img.shields.io/badge/LinkedIn-renzo_ugarte-2E86C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
-  </a>
-  <a href="https://github.com/Renzou756">
-    <img src="https://img.shields.io/badge/GitHub-Renzou756-2E86C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
-  </a>
 </p>
 
 ---
@@ -55,19 +51,42 @@
 
 ### Featured Projects
 
-**Machine Learning Model Optimization**
-> Developed an optimized ML pipeline using PyTorch and Scikit-learn that improved prediction accuracy by 18% while reducing training time by 32%.
+<div align="left">
+  <h4>
+    Supply Chain Optimization | AMPL, Python
+  </h4>
+  <blockquote>
+    Developed a mathematical model (LP) using AMPL to maximize company profits.
+    Achieved an objective function value of 11,789,734 dollars while using less than 50% of the budget.
+  </blockquote>
+  <a href="https://github.com/Renzou756/MIE262-Project/">
+      <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge" alt="View Project" height="28" style="vertical-align:middle">
+  </a>
+</div>
 
-**Supply Chain Optimization**
-> Created a mathematical model using AMPL and GurobiPy to optimize supply chain logistics, reducing costs by 22% while maintaining service levels.
-
-**Data Visualization Dashboard**
-> Built an interactive dashboard using Python, Pandas, and Seaborn to visualize complex datasets, enabling data-driven decision making.
+<div align="left">
+  <h4>
+    Deep Learning X-ray Pneumonia detection | Python, Pytorch
+  </h4>
+  <blockquote>
+    Developed a CNN + ANN model to classify chest X-rays into Bacterial-Pneumonia, Viral-Pneumonia, or No Pneumonia.
+  </blockquote>
+    <a href="https://github.com/edwynzhou/aps360_project_team_77">
+      <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge" alt="View Project" height="28" style="vertical-align:middle">
+    </a>
+</div>
 
 ---
+### Contact Me
 
 <p align="center">
-  <a href="https://morlab.mie.utoronto.ca/">
-    <img src="https://morlab.mie.utoronto.ca/wp-content/uploads/2023/08/MorLAB-Logo-1.png" alt="morLAB Logo" height="60">
+  <a href="mailto:renzo.ugarte@mail.utoronto.ca">
+    <img src="https://img.shields.io/badge/Email-renzo.ugarte@mail.utoronto.ca-2E86C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/renzo-ugarte-basurco/">
+    <img src="https://img.shields.io/badge/LinkedIn-renzo_ugarte-2E86C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+  </a>
+  <a href="https://github.com/Renzou756">
+    <img src="https://img.shields.io/badge/GitHub-Renzou756-2E86C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
   </a>
 </p>
